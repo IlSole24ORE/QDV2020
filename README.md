@@ -33,6 +33,23 @@ FONTE ORIGINALE | Nome della fonte che ha prodotto i dati o dalla quale sono sta
 - encoding: `UTF-8`;
 - separatore di campo: `,`
 
+
+### File 20201214_QDV2020COVID_001.csv ###
+
+Nome del campo | Descrizione | Formato | Esempio
+-------------- | ----------- | ------- | -------
+NOME PROVINCIA (ISTAT) | Nome esteso della provincia Istat, come descritta nella sezione [Codici statistici e denominazioni delle ripartizioni sovracomunali](https://www.istat.it/it/archivio/6789) - link consultato il 10/12/2020 | Stringa | Reggio nell'Emilia
+CODICE NUTS 3 2021 | Codice NUTS 3, come descritto nella sezione [Codici statistici e denominazioni delle ripartizioni sovracomunali](https://www.istat.it/it/archivio/6789) - link consultato il 10/12/2020 | Stringa | ITH53
+CODICE PROVINCIA ISTAT (STORICO) | Codice della provincia, come descritto nella sezione [Codici statistici e denominazioni delle ripartizioni sovracomunali](https://www.istat.it/it/archivio/6789) - link consultato il 10/12/2020 | Stringa | 035
+DENOMINAZIONE CORRENTE | Nome con il quale è comunemente nota la provincia | Stringa | Reggio Emilia
+VALORE | Misura del fenomeno | Numero decimale | -0.08346
+INDICATORE | Nome sintetico del fenomeno | Stringa | Pil pro capite
+UNITA' DI MISURA | Descrizione dell'unità in cui viene misurato il fenomeno | Stringa | Variazione stima 2020 rispetto al 2019 (In %)
+FONTE ORIGINALE | Nome della fonte originale del dato. Laddove elaborato da Il Sole 24 ORE, viene espressamente indicato | Stringa | Elaborazioni Il Sole 24 ORE su dati Prometeia
+
+- encoding: `UTF-8`;
+- separatore di campo: `,`
+
 ## Licenza ##
 
 Il dataset è rilasciato con licenza [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
