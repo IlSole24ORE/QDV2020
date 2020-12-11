@@ -16,7 +16,7 @@ Il Gruppo 24 ORE è il principale gruppo editoriale multimediale attivo in Itali
 
 ## Struttura dei dati ##
 
-# File 20201214_QDV2020_001.csv #
+### File 20201214_QDV2020_001.csv ###
 
 Nome del campo | Descrizione | Formato | Esempio
 -------------- | ----------- | ------- | -------
