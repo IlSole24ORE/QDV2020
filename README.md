@@ -18,7 +18,7 @@ Il Gruppo 24 ORE è il principale gruppo editoriale multimediale attivo in Itali
 
 ### File 20201214_QDV2020_001.csv ###
 
-Questo file contiene:
+Questo file contiene i dati e i descrittori dei 90 indicatori utilizzati per comporre la classifica della Qualità della Vita 2020:
 
 Nome del campo | Descrizione | Formato | Esempio
 -------------- | ----------- | ------- | -------
@@ -38,7 +38,7 @@ FONTE ORIGINALE | Nome della fonte che ha prodotto i dati o dalla quale sono sta
 
 ### File 20201214_QDV2020COVID_001.csv ###
 
-Questo file contiene:
+Questo file contiene i dati e i descrittori dei 25 indicatori, i cui valori hanno avuto un aggiornamento nel corso del 2020, che includono gli effetti della pandemia da Covid-19 sulla Qualità della Vita:
 
 Nome del campo | Descrizione | Formato | Esempio
 -------------- | ----------- | ------- | -------
