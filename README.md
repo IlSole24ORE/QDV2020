@@ -18,6 +18,8 @@ Il Gruppo 24 ORE è il principale gruppo editoriale multimediale attivo in Itali
 
 ### File 20201214_QDV2020_001.csv ###
 
+Questo file contiene:
+
 Nome del campo | Descrizione | Formato | Esempio
 -------------- | ----------- | ------- | -------
 NOME PROVINCIA (ISTAT) | Nome esteso della provincia Istat, come descritta nella sezione [Codici statistici e denominazioni delle ripartizioni sovracomunali](https://www.istat.it/it/archivio/6789) - link consultato il 10/12/2020 | Stringa | Monza e della Brianza
@@ -35,6 +37,8 @@ FONTE ORIGINALE | Nome della fonte che ha prodotto i dati o dalla quale sono sta
 
 
 ### File 20201214_QDV2020COVID_001.csv ###
+
+Questo file contiene:
 
 Nome del campo | Descrizione | Formato | Esempio
 -------------- | ----------- | ------- | -------
